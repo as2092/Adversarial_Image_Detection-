@@ -1,0 +1,1 @@
+add 3 folders for corresponding datasets(cifar10. MNIST, Fashion MNIST)
